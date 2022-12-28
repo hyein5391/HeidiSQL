@@ -17,3 +17,11 @@
 # 4.OrderDetails 테이블에서 LIMIT 30번째부터 10개의 데이터를 가지고온다
 ![4번](https://user-images.githubusercontent.com/110071838/209747404-683b354b-7ce9-489a-844a-351a1c389bbd.png)
 ![4번결과](https://user-images.githubusercontent.com/110071838/209747421-64481130-89e4-4916-9446-89745588754c.png)
+
+
+# 5.Customers 테이블 내의 데이터에서 CustomerID,Name,Address 를 AS 명령어를 통해 각 명칭을 내가원하는것으로 바꾸어준다
+
+![5번](https://user-images.githubusercontent.com/110071838/209747799-fd517640-8755-49d6-9079-9633ab8f0cf1.png)
+![5번결과](https://user-images.githubusercontent.com/110071838/209747801-f9fd0a03-8e4e-4079-a629-3487f233b40e.png)
+
+
