@@ -25,3 +25,11 @@
 ![5번결과](https://user-images.githubusercontent.com/110071838/209747801-f9fd0a03-8e4e-4079-a629-3487f233b40e.png)
 
 
+# 6.위의 배운 명령어를 이용하여 테이블을 정리하여 본다
+
+![6번](https://user-images.githubusercontent.com/110071838/209748015-e5fdddc6-c581-4353-9f60-2ba066281489.png)
+![6번(1)](https://user-images.githubusercontent.com/110071838/209748019-821f8d31-ff0d-4ecd-bc5a-bd6dcd1e2dda.png)
+![6번결과](https://user-images.githubusercontent.com/110071838/209748062-51af2c2c-3c48-420e-964b-6c6b64855619.png)
+
+## 결과 국가 Mexico와 도시 London 인 데이터를 LIMIT을 사용 하여 0번부터 5개의 데이터를 가지고 오고 ORDER BY 를 이용하여 CustomerName을 오름차순으로 정렬
+## AS 명령어를 사용하여 데이터 네임을 문자열로 수정하여 줌
